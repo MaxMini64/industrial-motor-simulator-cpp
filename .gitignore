@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+# CMake temporary files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Project specific executables
+SimuladorMotor
+
+# Build directories (in case you use 'mkdir build && cd build')
+build/
